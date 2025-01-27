@@ -1,4 +1,4 @@
-module math
+module main
 
 struct Vector2 {
 	x f32
